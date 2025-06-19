@@ -8,6 +8,7 @@ FEATURES
 - Add songs to the playlist with details.
 - song title
 - Rating (1-5)
+
 - Comments/song type
   View a list of added songs and their ratings on a separatee screen.
   Limit of 4 songs in the playlist.
@@ -27,6 +28,20 @@ FEATURES
   Known Issues.
   -Playlist limited to 4 songs only.
   -Playlist rest on app restart.
+
+  View screen.
+  Features.
+  Displays all song titles.
+  Corresponding Artist Names.
+  Individual song ratings.
+  Comments or song types.
+  Average ratings.
+
+  Technologies used.
+   -Kotlin
+  -Android SDK.
+  -Material components.
+  
 
   SCREENSHOTS FROM THE APP.
   
