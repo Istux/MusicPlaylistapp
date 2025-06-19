@@ -34,7 +34,7 @@
 
     <EditText
         android:id="@+id/TvListOfSongs"
-        android:layout_width="366dp"
+        android:layout_width="372dp"
         android:layout_height="192dp"
         android:layout_marginBottom="450dp"
         android:textColor="#F0E3E3"
